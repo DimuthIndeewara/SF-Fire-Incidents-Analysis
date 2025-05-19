@@ -16,3 +16,5 @@ The purpose of this project is to analyze and understand the operations of the S
 
 ### Dashboard 
 A dashboard is created using the R Shiny package to visualize and interact with the datasets and the analysis. The dashboard offers different filtering methods and real-time data exploration. The dashboard is designed to interact with users’ input and responses by providing graphs, tables, maps, patterns of fire incidents and relevant data instantly.
+
+![Screenshot](dashboard.png)
