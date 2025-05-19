@@ -4,3 +4,9 @@ The San Francisco (SF) Fire Department is the first respondent to medical and fi
 This dataset provides a comprehensive overview of the volume and distribution of medical and fire incidents across San Francisco.
 
 The purpose of this project is to analyze and understand the operations of the San Francisco (SF) Fire Department and evaluate its performance. Therefore in-depth analysis has been performed under the three research questions.
+
+**Research Question 1** - How do crime incidents influence the occurrence of fire and Emergency Medical Service(EMS) incidents in San Francisco?
+
+**Research Question 2** - How does seasonal temperature variation influence the occurrence of fire incidents in San Francisco?
+
+**Research Question 3** - How effective are fire stations in reaching the highest fire incident locations within optimal response times, as analyzed through isochrone mapping?
